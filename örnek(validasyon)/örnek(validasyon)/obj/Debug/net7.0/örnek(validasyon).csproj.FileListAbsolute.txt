@@ -1,0 +1,15 @@
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/bin/Debug/net7.0/örnek(validasyon)
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/bin/Debug/net7.0/örnek(validasyon).deps.json
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/bin/Debug/net7.0/örnek(validasyon).runtimeconfig.json
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/bin/Debug/net7.0/örnek(validasyon).dll
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/bin/Debug/net7.0/örnek(validasyon).pdb
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/örnek(validasyon).csproj.AssemblyReference.cache
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/örnek(validasyon).GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/örnek(validasyon).AssemblyInfoInputs.cache
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/örnek(validasyon).AssemblyInfo.cs
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/örnek(validasyon).csproj.CoreCompileInputs.cache
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/örnek(validasyon).dll
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/refint/örnek(validasyon).dll
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/örnek(validasyon).pdb
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/örnek(validasyon).genruntimeconfig.cache
+/Users/ertackara/Projects/örnek(validasyon)/örnek(validasyon)/obj/Debug/net7.0/ref/örnek(validasyon).dll
